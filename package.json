@@ -1,5 +1,5 @@
 {
-  "name": "red-tuya",
+  "name": "node-red-tuya",
   "version": "0.0.1",
   "description": "A node-red node to speak with tuya devices",
   "scripts": {
