@@ -1,0 +1,23 @@
+{
+  "name": "red-tuya",
+  "version": "0.0.1",
+  "description": "A node-red node to speak with tuya devices",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-red",
+    "tuya",
+    "iot"
+  ],
+  "author": "David Bellingroth",
+  "license": "ISC",
+  "node-red": {
+    "nodes": {
+      "tuya": "tuya.js"
+    }
+  },
+  "dependencies": {
+    "tuyapi": "^3.0.2"
+  }
+}
